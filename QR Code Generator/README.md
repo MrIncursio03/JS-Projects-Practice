@@ -25,25 +25,22 @@ A simple and elegant QR Code Generator built using **HTML**, **CSS**, and **Java
 
 ## 🔧 How to Use
 
-1. **Clone or Download** this repository:
-   ```bash
-   git clone https://github.com/your-username/qr-code-generator.git
-2. Open index.html in your browser
+1. Open index.html in your browser
 
-3. Type a URL or text in the input field
+2. Type a URL or text in the input field
 
-4. Click "Generate QR Code"
+3. Click "Generate QR Code"
 
-5. Your QR code will appear below
+4. Your QR code will appear below
 
 🛠 Technologies Used
-## HTML5
+# HTML5
 
-## CSS3 (with animations)
+# CSS3 (with animations)
 
-## Vanilla JavaScript
+# Vanilla JavaScript
 
-## QRServer API
+# QRServer API
 
 📸 Screenshot
 ![alt text](image.png)
